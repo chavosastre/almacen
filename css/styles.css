@@ -55,6 +55,38 @@ body, html {
   width: 100%;
 }
 
+.logoPDF{
+  width: 40%;
+}
+
+
+.naranjaeco {
+  background-color:#f45131;
+}
+
+.rojo {
+  background-color:red;
+}
+
+.izq{
+  text-align: right;
+  padding: 40px;
+}
+
+.piepag{
+  font-size: 10px;
+  font-weight: bold;
+  /* padding-top: 25px; */
+  text-align: center;
+
+}
+
+
+
+
+
+
+
 textarea.detalle{
   width: 100%;
   font-family: Poppins-Regular;
